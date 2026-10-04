@@ -59,6 +59,7 @@ El laboratorio permitió reforzar los conocimientos de PHP y HTML5 mediante la c
 ---
 
 ## 📁 Estructura del repositorio
+```text
 Lab3-Include/
 └── TallerAspirantes/
     ├── includes/
