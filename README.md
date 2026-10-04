@@ -48,7 +48,6 @@ Durante el **Laboratorio #3 Include - Formularios HTML5** se desarrolló un **Si
 ## 🎯 Conclusión
 El laboratorio permitió reforzar los conocimientos de PHP y HTML5 mediante la creación de un sistema modular seguro. Se aplicaron buenas prácticas en la sanitización de entradas, inclusión modular de plantillas, cálculo de diferencias de fechas y la configuración de seguridad del servidor a través de `.htaccess` para proteger el sistema contra ataques de ejecución remota de código.
 
----
 
 ## 📁 Estructura del repositorio
 ```text
