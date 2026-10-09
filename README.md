@@ -26,8 +26,6 @@ Se creó un panel principal (`index.php`) para navegar entre todos los problemas
 - Clase base `Coche` con la propiedad protegida `$color` y métodos getter y setter.
 - Clase derivada `CocheDeLujo` que extiende de `Coche` e incorpora el atributo protegido `$extras`.
 - Sobrescritura del método `printCaracteristicas()` en la clase hija para mostrar el color heredado y los extras del vehículo en una tarjeta de Bootstrap.
-<img width="857" height="532" alt="Captura de pantalla 2026-10-09 101324" src="https://github.com/user-attachments/assets/d4893687-3143-4794-967a-27916a4b6ab8" />
-<img width="662" height="695" alt="Captura de pantalla 2026-10-09 101315" src="https://github.com/user-attachments/assets/f553bc34-b80f-429e-8428-1f06212419ac" />
 <img width="715" height="438" alt="Captura de pantalla 2026-10-09 101227" src="https://github.com/user-attachments/assets/e0e2a890-4929-4f26-baed-800d4868b21b" />
 
 
